@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf8"?>
+<agenda_telefonica>
+    <contato>
+    <nome>Romeu Netto</nome>
+    <endereco>Nova Friburgo</endereco>
+    <telefone>
+        <casa>(22)989880277</casa>
+        <trabalho>(22)971733533</trabalho>
+    </telefone>
+</contato>
+<contato>
+    <nome>Romeu Netto</nome>
+    <endereco>Nova Friburgo</endereco>
+    <telefone>
+        <casa>(22)989880277</casa>
+        <trabalho>(22)971733533</trabalho>
+    </telefone>
+</contato>
+<contato>
+    <nome>Romeu Netto</nome>
+    <endereco>Nova Friburgo</endereco>
+    <telefone>
+        <casa>(22)989880277</casa>
+        <trabalho>(22)971733533</trabalho>
+    </telefone>
+</contato>
+</agenda_telefonica>

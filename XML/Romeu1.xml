@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf8"?>
+<receita>
+<paciente>
+<nome> Ana Maria Marina </nome>
+<idade> 7 anos </idade>
+</paciente>
+<remedio1>
+<tipo_de_uso> uso interno</tipo_de_uso>
+<nome_do_remedio> xarope sem tosse </nome_do_remedio>
+<quantidade> 1 colher </quantidade>
+<frequencia> 3x ao dia </frequencia>
+</remedio1>
+<remedio2>
+<tipo_de_uso> uso externo</tipo_de_uso>
+<nome_do_remedio> Gyellow </nome_do_remedio>
+<quantidade> 1 aplicacao no braco </quantidade>
+<frequencia> 1x ao deitar</frequencia>
+</remedio2>
+</receita>
