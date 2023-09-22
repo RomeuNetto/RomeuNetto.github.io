@@ -1,0 +1,32 @@
+#iniciar1{
+    border: 5px solid #141311;
+    width: 200px;
+    text-align: left;
+    padding: 10px;
+    font-size: 30px;
+    cursor: pointer;
+    margin: auto;
+    background: #0f0f0f;
+    color: white;
+  }
+#resposta1{
+    font-size: 26px;
+    margin-bottom: 30px;
+    text-align: left;
+  }
+  #iniciar2{
+    border: 5px solid #141311;
+    width: 200px;
+    text-align: left;
+    padding: 10px;
+    font-size: 30px;
+    cursor: pointer;
+    margin: auto;
+    background: #0f0f0f;
+    color: white;
+  }
+#resposta2{
+    font-size: 26px;
+    margin-bottom: 30px;
+    text-align: left;
+  }
